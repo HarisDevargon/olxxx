@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Olx Clone</string>
+    <string name="facebook_app_id">367688795407752</string>
+    <string name="facebook_client_token">2995a86b20916c558476d96d682029cf</string>
+    <!-- <string name="fb_login_protocol_scheme">fb1234</string> -->
+
+</resources>

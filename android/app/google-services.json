@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "972118557441",
+    "project_id": "rn-olx-clone",
+    "storage_bucket": "rn-olx-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972118557441:android:eaf1b4926e33db2b8d5100",
+        "android_client_info": {
+          "package_name": "com.furnitureshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972118557441-erjrdt8q90ku8qg5a78gonkfrf1kmjh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.furnitureshopapp",
+            "certificate_hash": "2c6ad5a9cc5c5edaadd380e8b71ad82025d71612"
+          }
+        },
+        {
+          "client_id": "972118557441-0pttn9p714s9rvla73ug0pqeapbmmf2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ13o_wxMVET4Z49spVcJkzdMPv0hLDl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972118557441-0pttn9p714s9rvla73ug0pqeapbmmf2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
